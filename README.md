@@ -54,19 +54,6 @@ All projects in this repository are built using the **[Freenove ESP32-WROVER Ult
 
 ---
 
-## ⚙️ Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ESP32-PROJECTS.git
-   ```
-2. Navigate to the project folder of your choice.
-3. Open the source file in your IDE.
-4. Check the project's `README.md` for wiring instructions and dependencies.
-5. Flash to your ESP32 and enjoy! 🎉
-
----
-
 ## 📬 Contact
 
 If you have suggestions, questions, or just want to connect:

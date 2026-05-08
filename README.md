@@ -23,10 +23,7 @@ All projects in this repository are built using the **[Freenove ESP32-WROVER Ult
 | **Memory** | 4 MB Flash, 8 MB PSRAM |
 | **Extras** | Onboard camera, 1 GB memory card + reader |
 | **Components** | 240 items — sensors, modules, LEDs, wires & more |
-| **Projects included** | 122 projects (Simple to Complex) |
 | **Languages** | MicroPython, C, Processing (Java) |
-| **Tutorial** | 795-page downloadable guide |
-
 ---
 
 ## 🚀 Projects
@@ -52,7 +49,7 @@ All projects in this repository are built using the **[Freenove ESP32-WROVER Ult
 
 - **Microcontroller:** ESP32-WROVER (Freenove Ultimate Starter Kit)
 - **IDEs:** Arduino IDE / VS Code + PlatformIO
-- **Languages:** C++ (Arduino framework) / MicroPython
+- **Languages:** C (Arduino framework) / MicroPython
 - **Other tools:** Fritzing (wiring diagrams), Wokwi (simulation)
 
 ---

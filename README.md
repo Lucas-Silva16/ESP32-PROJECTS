@@ -1,2 +1,77 @@
-# ESP32-PROJECTS
-A repository where i share my ESP32 starter Projects
+# 🔌 ESP32-PROJECTS
+
+> A personal repository where I document my journey learning embedded systems and IoT development with the **ESP32** microcontroller.
+
+---
+
+## 📖 About
+
+This repository is a collection of beginner-to-intermediate ESP32 projects built while learning electronics and embedded programming. Each project is self-contained in its own folder and includes everything needed to understand, replicate, and extend it.
+
+Whether you're also starting out with the ESP32 or just looking for quick references, feel free to explore!
+
+---
+
+## 🧰 Kit Used
+
+All projects in this repository are built using the **[Freenove ESP32-WROVER Ultimate Starter Kit](https://www.amazon.es/dp/B0CJJJ7BCY)**.
+
+| Detail | Info |
+|--------|------|
+| **Board** | ESP32-WROVER (Dual-core 32-bit, up to 240 MHz) |
+| **Connectivity** | Wi-Fi 2.4 GHz + Bluetooth 4.2 (LE) |
+| **Memory** | 4 MB Flash, 8 MB PSRAM |
+| **Extras** | Onboard camera, 1 GB memory card + reader |
+| **Components** | 240 items — sensors, modules, LEDs, wires & more |
+| **Projects included** | 122 projects (Simple to Complex) |
+| **Languages** | MicroPython, C, Processing (Java) |
+| **Tutorial** | 795-page downloadable guide |
+
+---
+
+## 🚀 Projects
+
+| # | Project | Description | Demo |
+|---|---------|-------------|------|
+| 01 | *(coming soon)* | — | — |
+
+> More projects will be added as I progress through my learning journey. ⚡
+
+---
+
+## 📌 Each Project Includes
+
+- **📸 Breadboard photo/diagram** — Visual wiring reference
+- **▶️ YouTube demo** — A short video showing the project in action
+- **💻 Source code** — Fully commented and ready to upload
+- **📄 README** — Setup instructions, components list, and notes
+
+---
+
+## 🛠️ Tools & Stack
+
+- **Microcontroller:** ESP32-WROVER (Freenove Ultimate Starter Kit)
+- **IDEs:** Arduino IDE / VS Code + PlatformIO
+- **Languages:** C++ (Arduino framework) / MicroPython
+- **Other tools:** Fritzing (wiring diagrams), Wokwi (simulation)
+
+---
+
+## ⚙️ Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/ESP32-PROJECTS.git
+   ```
+2. Navigate to the project folder of your choice.
+3. Open the source file in your IDE.
+4. Check the project's `README.md` for wiring instructions and dependencies.
+5. Flash to your ESP32 and enjoy! 🎉
+
+---
+
+## 📬 Contact
+
+If you have suggestions, questions, or just want to connect:
+
+- Instagram: [@lucasslv.16](https://www.instagram.com/lucasslv.16/)

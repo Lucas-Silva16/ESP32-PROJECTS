@@ -28,11 +28,12 @@ All projects in this repository are built using the **[Freenove ESP32-WROVER Ult
 
 ## 🚀 Projects
 
-| # | Project | Description | Demo |
-|---|---------|-------------|------|
-| 01 | *(coming soon)* | — | — |
+| # | Project | Description |
+|---|---------|-------------|
+| 01 | [LED BLINK](https://github.com/Lucas-Silva16/ESP32-PROJECTS/tree/main/1-%20LED%20BLINK) | Blink the ESP32 built-in LED at 5 second intervals |
+| 02 | [LED BUTTON](https://github.com/Lucas-Silva16/ESP32-PROJECTS/tree/main/2-%20LED%20BOTAO) | Control an LED with a push button using a Pull-up circuit |
 
-> More projects will be added as I progress through my learning journey. ⚡
+> More projects will be added as I progress through my learning journey.
 
 ---
 

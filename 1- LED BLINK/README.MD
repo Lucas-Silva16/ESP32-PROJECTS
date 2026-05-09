@@ -20,8 +20,6 @@ Components used: 1 LED | 1 x 220 ohm resistor | 2 jumper wires
 
 ## Demo
 
-[Watch the circuit in action (local video)](video_2026-05-09_18-47-14.mp4)
-
 [Watch on YouTube](https://youtube.com/shorts/HFh4V4sFz3Q?feature=share)
 
 ---

@@ -6,7 +6,7 @@ LED Breath project using 1 LEDs controlled by the ESP32, creating a back-and-for
 
 ## Description
 
-This project controls 1 LED bar using pins 18 of the ESP32. The LEDs light up one slowly and shutsdown slowly
+This project controls 1 LED using the ESP32. The LEDs light up one slowly and shutsdown slowly
 
 ---
 

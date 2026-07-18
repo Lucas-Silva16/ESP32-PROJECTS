@@ -4,7 +4,7 @@
 
 ---
 
-## 📖 About
+##  About
 
 This repository is a collection of beginner-to-intermediate ESP32 projects built while learning electronics and embedded programming. Each project is self-contained in its own folder and includes everything needed to understand, replicate, and extend it.
 
@@ -12,7 +12,7 @@ Whether you're also starting out with the ESP32 or just looking for quick refere
 
 ---
 
-## 🧰 Kit Used
+##  Kit Used
 
 All projects in this repository are built using the **[Freenove ESP32-WROVER Ultimate Starter Kit](https://www.amazon.es/dp/B0CJJJ7BCY)**.
 
@@ -27,16 +27,16 @@ All projects in this repository are built using the **[Freenove ESP32-WROVER Ult
 ---
 
 
-## 📌 Each Project Includes
+##  Each Project Includes
 
-- **📸 Breadboard photo/diagram** — Visual wiring reference
-- **▶️ YouTube demo** — A short video showing the project in action
-- **💻 Source code** — Fully commented and ready to upload
-- **📄 README** — Setup instructions, components list, and notes
+- ** Breadboard photo/diagram** — Visual wiring reference
+- ** YouTube demo** — A short video showing the project in action
+- ** Source code** — Fully commented and ready to upload
+- ** README** — Setup instructions, components list, and notes
 
 ---
 
-## 🛠️ Tools & Stack
+##  Tools & Stack
 
 - **Microcontroller:** ESP32-WROVER (Freenove Ultimate Starter Kit)
 - **IDEs:** Arduino IDE / VS Code + PlatformIO
